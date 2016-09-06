@@ -3,9 +3,9 @@ A list of paper about the topic in the title
 
 # Bookmarks
   * [Long-term Context](#long-term-context)
-  * [Task Bots](#task-driven)
-  * [Chat Bots](#chatbots)
-  * [Reinforcement Learning](#reinforce)
+  * [Task Bots](#task-bots)
+  * [Chat Bots](#chat-bots)
+  * [Reinforcement Learning](#reinforcement-learning)
 
 ## Long-term Context
 Mostly the models are evaluated at CNN/Daily Mail and Children's Book Test (CBT) corpora.
@@ -26,7 +26,7 @@ Mostly the models are evaluated at CNN/Daily Mail and Children's Book Test (CBT)
 
 * [Iterative Alternating Neural Attention for Machine Reading](http://arxiv.org/abs/1606.02245v3), Alessandro Sordoni et al., *arXiv*, 2016.
 
-* [A Neural Netwokr Approach to Context-Senstive Generation of Conversational Responses](https://michaelauli.github.io/papers/chitchat.pdf), Alessandro Sordoni et al, 2015
+* [A Neural Network Approach to Context-Senstive Generation of Conversational Responses](https://michaelauli.github.io/papers/chitchat.pdf), Alessandro Sordoni et al, 2015
 
 * [Attention-over-Attention Neural Networks for Reading Comprehension](https://arxiv.org/abs/1607.04423) Yiming Cui et al., *arXiv* 2016
 
@@ -55,7 +55,7 @@ Mostly the models are evaluated at CNN/Daily Mail and Children's Book Test (CBT)
 * [Conversational Contextual Cues: The Case of Personalization and History for Response Ranking](http://arxiv.org/pdf/1606.00372v1.pdf) Rami Al-Rfou et al., 2016
 
 * [A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues](https://arxiv.org/abs/1605.06069) Iulian Vlad Serban et al., 2016
-q
+
 ## Reinforcement Learning
 * [Deep Reinforcement Learning with a Natural Language Action Space](http://arxiv.org/abs/1511.04636v5), Ji He et al., *arXiv*, 2016.
 
