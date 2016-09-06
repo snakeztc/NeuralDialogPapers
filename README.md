@@ -22,7 +22,7 @@ Mostly the models are evaluated at CNN/Daily Mail and Children's Book Test (CBT)
 
 * [Dynamic Entity Representation with Max-pooling Improves Machine Reading](http://www.cl.ecei.tohoku.ac.jp/publications/2016/kobayashi-dynamic-entity-naacl2016.pdf), Sosuke Kobayashi et al., *arXiv*, 2016.
 
-* [Gated-Attention Readers for Text Comprehension](http://cn.arxiv.org/abs/1606.01549v1), Bhuwan Dhingra et al., *arXiv*, 2016.
+* [Gated-Attention Readers for Text Comprehension](https://arxiv.org/abs/1606.01549), Bhuwan Dhingra et al., *arXiv*, 2016.
 
 * [Iterative Alternating Neural Attention for Machine Reading](http://arxiv.org/abs/1606.02245v3), Alessandro Sordoni et al., *arXiv*, 2016.
 
@@ -53,7 +53,7 @@ Mostly the models are evaluated at CNN/Daily Mail and Children's Book Test (CBT)
 * [Conversational Contextual Cues: The Case of Personalization and History for Response Ranking](http://arxiv.org/pdf/1606.00372v1.pdf) Rami Al-Rfou et al., 2016
 
 * [A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues](https://arxiv.org/abs/1605.06069) Iulian Vlad Serban et al., 2016
-
+q
 ## Reinforcement Learning
 * [Deep Reinforcement Learning with a Natural Language Action Space](http://arxiv.org/abs/1511.04636v5), Ji He et al., *arXiv*, 2016.
 
