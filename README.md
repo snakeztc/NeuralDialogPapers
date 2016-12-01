@@ -6,6 +6,7 @@ A list of paper about the topic in the title
   * [Task Bots](#task-bots)
   * [Chat Bots](#chat-bots)
   * [Reinforcement Learning](#reinforcement-learning)
+  * [State Tracking](#state-tracking)
 
 ## Long-term Context
 Mostly the models are evaluated at CNN/Daily Mail and Children's Book Test (CBT) corpora.
@@ -44,6 +45,9 @@ Mostly the models are evaluated at CNN/Daily Mail and Children's Book Test (CBT)
 ## Chat Bots
 * [A Neural Conversational Model](http://arxiv.org/abs/1506.05869) Oriol Vinyals et al., *arXiv* 2015]
 
+* [A Neural Network Approach to Context-Sensitive Generation of Conversational Responses∗](https://arxiv.org/pdf/1506.06714v1.pdf) 
+Alessandro Sordoni et al., *arXiv* 2015]
+
 * [Multiresolution Recurrent Neural Networks: An Application to Dialogue Response Generation](https://arxiv.org/pdf/1606.00776v2.pdf) Iulian Vlad Serban et al., *arXiv* 2016s
 
 * [A Persona-Based Neural Conversation Model](https://arxiv.org/abs/1603.06155) Jiwei Li et al, *arXiv*, 2016
@@ -62,3 +66,8 @@ Mostly the models are evaluated at CNN/Daily Mail and Children's Book Test (CBT)
 * [Language Understanding for Text-based Games using Deep Reinforcement Learning](https://arxiv.org/abs/1506.08941), Karthik Narasimhan *arXiv*, 2016
 
 * [Generating Text with Deep Reinforcement Learning](http://arxiv.org/abs/1510.09202), Hongyu Guo, *arXiv*, 2015
+
+## State Tracking
+* [Joint Online Spoken Language Understanding and Language Modeling with Recurrent Neural Networks](http://arxiv.org/abs/1609.01462v1), Bing Liu, *arXiv*, 2016
+
+* [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling](http://arxiv.org/abs/1609.01454v1), Bing Liu, *arXiv*, 2016
