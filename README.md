@@ -42,6 +42,12 @@ Mostly the models are evaluated at CNN/Daily Mail and Children's Book Test (CBT)
 
 * [End-to-End Reinforcement Learning of Dialogue Agents for Information Access](http://arxiv.org/abs/1609.00777) Bhuwan Dhingra et al., 2016
 
+* [A User Simulator for Task-Completion Dialogues](https://arxiv.org/abs/1612.05688) Xinjun Li et al., 2016
+
+* [End-to-End Joint Learning of Natural Language Understanding and Dialogue Manager](https://arxiv.org/abs/1612.00913) Xuesong Yang et al., 2016
+
+* [Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning](https://arxiv.org/abs/1702.03274) Jason D. Williams et al., 2017
+
 ## Chat Bots
 * [A Neural Conversational Model](http://arxiv.org/abs/1506.05869) Oriol Vinyals et al., *arXiv* 2015]
 
@@ -59,6 +65,14 @@ Alessandro Sordoni et al., *arXiv* 2015]
 * [Conversational Contextual Cues: The Case of Personalization and History for Response Ranking](http://arxiv.org/pdf/1606.00372v1.pdf) Rami Al-Rfou et al., 2016
 
 * [A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues](https://arxiv.org/abs/1605.06069) Iulian Vlad Serban et al., 2016
+
+* [Online Sequence-to-Sequence Reinforcement Learning for Open-Domain Conversational Agents](https://arxiv.org/abs/1612.03929) Nabiha Asghar et al., 2016
+
+* [Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/abs/1701.06547) Jiwei Li et al., 2017
+
+* [Data Distillation for Controlling Specificity in Dialogue Generation](https://arxiv.org/abs/1702.06703) Jiwei Li et al., 2017
+
+* [Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders](https://arxiv.org/abs/1703.10960) Tiancheng Zhao et al., 2017
 
 ## Reinforcement Learning
 * [Deep Reinforcement Learning with a Natural Language Action Space](http://arxiv.org/abs/1511.04636v5), Ji He et al., *arXiv*, 2016.
