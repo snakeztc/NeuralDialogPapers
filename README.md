@@ -32,6 +32,10 @@ Mostly the models are evaluated at CNN/Daily Mail and Children's Book Test (CBT)
 * [Attention-over-Attention Neural Networks for Reading Comprehension](https://arxiv.org/abs/1607.04423) Yiming Cui et al., *arXiv* 2016
 
 ## Task Bots
+* [Joint Online Spoken Language Understanding and Language Modeling with Recurrent Neural Networks](http://arxiv.org/abs/1609.01462v1), Bing Liu, *arXiv*, 2016
+
+* [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling](http://arxiv.org/abs/1609.01454v1), Bing Liu, *arXiv*, 2016
+
 * [A Network-based End-to-End Trainable Task-oriented Dialogue System](https://arxiv.org/abs/1604.04562) Tsung-Hsien Wen, 2016
 
 * [Incorporating Unstructured Textual Knowledge Sources into Neural Dialogue](http://media.wix.com/ugd/b6d786_137894b7b3a341a09ed0c0b45b46dbb6.pdf) Ryan Lowe et al., 2016
@@ -49,6 +53,10 @@ Mostly the models are evaluated at CNN/Daily Mail and Children's Book Test (CBT)
 * [Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning](https://arxiv.org/abs/1702.03274) Jason D. Williams et al., 2017
 
 * [Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings](https://arxiv.org/abs/1704.07130) He He et al., 2017
+
+* [Key-Value Retrieval Networks for Task-Oriented Dialogue](https://arxiv.org/abs/1705.05414) M Eric et al., 2017
+
+* [Deal or No Deal? End-to-End Learning for Negotiation Dialogues](https://arxiv.org/abs/1706.05125) Mike Lewis et al., 2017
 
 ## Chat Bots
 * [A Neural Conversational Model](http://arxiv.org/abs/1506.05869) Oriol Vinyals et al., *arXiv* 2015]
@@ -83,7 +91,9 @@ Alessandro Sordoni et al., *arXiv* 2015]
 
 * [Generating Text with Deep Reinforcement Learning](http://arxiv.org/abs/1510.09202), Hongyu Guo, *arXiv*, 2015
 
-## State Tracking
-* [Joint Online Spoken Language Understanding and Language Modeling with Recurrent Neural Networks](http://arxiv.org/abs/1609.01462v1), Bing Liu, *arXiv*, 2016
+* [Sub-domain Modelling for Dialogue Management with Hierarchical Reinforcement Learning](https://arxiv.org/abs/1706.06210) Paweł Budzianowski et al., 2017
 
-* [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling](http://arxiv.org/abs/1609.01454v1), Bing Liu, *arXiv*, 2016
+* [Sample-efficient Actor-Critic Reinforcement Learning with Supervised Data for Dialogue Management](https://arxiv.org/abs/1707.00130) Pei-Hao Su et al., 2017
+
+
+
