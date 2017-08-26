@@ -58,7 +58,7 @@ Mostly the models are evaluated at CNN/Daily Mail and Children's Book Test (CBT)
 
 * [Deal or No Deal? End-to-End Learning for Negotiation Dialogues](https://arxiv.org/abs/1706.05125) Mike Lewis et al., 2017
 
-* [Generative Encoder-Decoder Models for Task-Oriented Spoken Dialog Systems with Chatting Capability] (https://arxiv.org/abs/1706.08476) Tiancheng Zhao et al., 2017
+* [Generative Encoder-Decoder Models for Task-Oriented Spoken Dialog Systems with Chatting Capability](https://arxiv.org/abs/1706.08476) Tiancheng Zhao et al., 2017
 
 ## Chat Bots
 * [A Neural Conversational Model](http://arxiv.org/abs/1506.05869) Oriol Vinyals et al., *arXiv* 2015]
@@ -87,15 +87,23 @@ Alessandro Sordoni et al., *arXiv* 2015]
 * [Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders](https://arxiv.org/abs/1703.10960) Tiancheng Zhao et al., 2017
 
 ## Reinforcement Learning
+* [Strategic Dialogue Management via Deep Reinforcement Learning](https://arxiv.org/abs/1511.08099) Heriberto Cuayáhuitl et al., 2015
+
+* [Generating Text with Deep Reinforcement Learning](http://arxiv.org/abs/1510.09202), Hongyu Guo, *arXiv*, 2015
+
 * [Deep Reinforcement Learning with a Natural Language Action Space](http://arxiv.org/abs/1511.04636v5), Ji He et al., *arXiv*, 2016.
 
 * [Language Understanding for Text-based Games using Deep Reinforcement Learning](https://arxiv.org/abs/1506.08941), Karthik Narasimhan *arXiv*, 2016
 
-* [Generating Text with Deep Reinforcement Learning](http://arxiv.org/abs/1510.09202), Hongyu Guo, *arXiv*, 2015
+* [Deep reinforcement learning for dialogue generation](https://arxiv.org/abs/1606.01541) Jiwei Li et al., 2016
+
+* [End-to-end task-completion neural dialogue systems](https://arxiv.org/abs/1703.01008) Xiujun Li et al., 2017
 
 * [Sub-domain Modelling for Dialogue Management with Hierarchical Reinforcement Learning](https://arxiv.org/abs/1706.06210) Paweł Budzianowski et al., 2017
 
 * [Sample-efficient Actor-Critic Reinforcement Learning with Supervised Data for Dialogue Management](https://arxiv.org/abs/1707.00130) Pei-Hao Su et al., 2017
+
+* [Composite Task-Completion Dialogue Policy Learning via Hierarchical Deep Reinforcement Learning](https://arxiv.org/abs/1704.03084) Baolin Peng et al., 2017
 
 
 
