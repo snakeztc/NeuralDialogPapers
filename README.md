@@ -58,6 +58,8 @@ Mostly the models are evaluated at CNN/Daily Mail and Children's Book Test (CBT)
 
 * [Deal or No Deal? End-to-End Learning for Negotiation Dialogues](https://arxiv.org/abs/1706.05125) Mike Lewis et al., 2017
 
+* [Generative Encoder-Decoder Models for Task-Oriented Spoken Dialog Systems with Chatting Capability] (https://arxiv.org/abs/1706.08476) Tiancheng Zhao et al., 2017
+
 ## Chat Bots
 * [A Neural Conversational Model](http://arxiv.org/abs/1506.05869) Oriol Vinyals et al., *arXiv* 2015]
 
