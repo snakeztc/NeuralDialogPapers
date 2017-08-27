@@ -6,7 +6,6 @@ A list of paper about the topic in the title
   * [Task Bots](#task-bots)
   * [Chat Bots](#chat-bots)
   * [Reinforcement Learning](#reinforcement-learning)
-  * [State Tracking](#state-tracking)
 
 ## Long-term Context
 Mostly the models are evaluated at CNN/Daily Mail and Children's Book Test (CBT) corpora.
