@@ -59,6 +59,10 @@ Mostly the models are evaluated at CNN/Daily Mail and Children's Book Test (CBT)
 
 * [Generative Encoder-Decoder Models for Task-Oriented Spoken Dialog Systems with Chatting Capability](https://arxiv.org/abs/1706.08476) Tiancheng Zhao et al., 2017
 
+* [An End-to-End Trainable Neural Network Model with Belief Tracking for Task-Oriented Dialog](https://arxiv.org/pdf/1708.05956.pdf) Liu Bing et al., 2017
+
+* [Sub-domain Modelling for Dialogue Management with Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1706.06210.pdf) Paweł et al., 2017
+
 ## Chat Bots
 * [A Neural Conversational Model](http://arxiv.org/abs/1506.05869) Oriol Vinyals et al., *arXiv* 2015]
 
@@ -84,6 +88,8 @@ Alessandro Sordoni et al., *arXiv* 2015]
 * [Data Distillation for Controlling Specificity in Dialogue Generation](https://arxiv.org/abs/1702.06703) Jiwei Li et al., 2017
 
 * [Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders](https://arxiv.org/abs/1703.10960) Tiancheng Zhao et al., 2017
+
+* [Augmenting End-to-End Dialog Systems with Commonsense Knowledge](https://arxiv.org/abs/1709.05453) Tom Young et al., 2017
 
 ## Reinforcement Learning
 * [Strategic Dialogue Management via Deep Reinforcement Learning](https://arxiv.org/abs/1511.08099) Heriberto Cuayáhuitl et al., 2015
