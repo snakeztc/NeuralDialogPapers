@@ -35,7 +35,9 @@ Mostly the models are evaluated at CNN/Daily Mail and Children's Book Test (CBT)
 
 * [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling](http://arxiv.org/abs/1609.01454v1), Bing Liu, *arXiv*, 2016
 
-* [A Network-based End-to-End Trainable Task-oriented Dialogue System](https://arxiv.org/abs/1604.04562) Tsung-Hsien Wen, 2016
+* [A Network-based End-to-End Trainable Task-oriented Dialogue System](https://arxiv.org/abs/1604.04562) Tsung-Hsien Wen et al, 2016
+
+* [Conditional Generation and Snapshot Learning in Neural Dialogue Systems](https://arxiv.org/abs/1606.03352) Tsung-Hsien Wen et al, 2016
 
 * [Incorporating Unstructured Textual Knowledge Sources into Neural Dialogue](http://media.wix.com/ugd/b6d786_137894b7b3a341a09ed0c0b45b46dbb6.pdf) Ryan Lowe et al., 2016
 
