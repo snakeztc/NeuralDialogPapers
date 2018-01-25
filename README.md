@@ -70,6 +70,13 @@ Mostly the models are evaluated at CNN/Daily Mail and Children's Book Test (CBT)
 
 * [Sub-domain Modelling for Dialogue Management with Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1706.06210.pdf) Paweł et al., 2017
 
+* [End-to-End Recurrent Entity Network for Entity-Value Independent Goal-Oriented Dialog Learning](http://workshop.colips.org/dstc6/papers/track1_paper02_wu.pdf) CS Wu et al 2017
+
+* [Toward Continual Learning for Conversational Agents](https://arxiv.org/pdf/1712.09943.pdf) S Lee 2017
+
+* [Building a Conversational Agent Overnight with Dialogue Self-Play](https://arxiv.org/abs/1801.04871) Pararth Shah et al 2018
+
+
 ## Chat Bots
 * [A Neural Conversational Model](http://arxiv.org/abs/1506.05869) Oriol Vinyals et al., *arXiv* 2015]
 
@@ -97,6 +104,10 @@ Alessandro Sordoni et al., *arXiv* 2015]
 * [Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders](https://arxiv.org/abs/1703.10960) Tiancheng Zhao et al., 2017
 
 * [Augmenting End-to-End Dialog Systems with Commonsense Knowledge](https://arxiv.org/abs/1709.05453) Tom Young et al., 2017
+
+* [Topic Compositional Neural Language Model](https://arxiv.org/abs/1712.09783) W Wang et al 2017
+
+* [A deep reinforcement learning chatbot](https://arxiv.org/abs/1709.02349) Serban et al 2017
 
 ## Reinforcement Learning
 * [Strategic Dialogue Management via Deep Reinforcement Learning](https://arxiv.org/abs/1511.08099) Heriberto Cuayáhuitl et al., 2015
