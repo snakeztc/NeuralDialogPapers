@@ -109,6 +109,10 @@ Alessandro Sordoni et al., *arXiv* 2015]
 
 * [A deep reinforcement learning chatbot](https://arxiv.org/abs/1709.02349) Serban et al 2017
 
+* [End-to-end Adversarial Learning for Generative Conversational Agents](https://arxiv.org/abs/1711.10122) Ludwig, O. 2017. 
+
+* [Improving Variational Encoder-Decoders in Dialogue Generation](https://arxiv.org/abs/1802.02032) X Shen et al 2018.
+
 ## Reinforcement Learning
 * [Strategic Dialogue Management via Deep Reinforcement Learning](https://arxiv.org/abs/1511.08099) Heriberto Cuayáhuitl et al., 2015
 
