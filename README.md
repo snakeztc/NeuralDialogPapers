@@ -105,6 +105,8 @@ Alessandro Sordoni et al., *arXiv* 2015]
 
 * [Augmenting End-to-End Dialog Systems with Commonsense Knowledge](https://arxiv.org/abs/1709.05453) Tom Young et al., 2017
 
+* [Latent variable dialogue models and their diversity](https://arxiv.org/abs/1702.05962) Cao, Kris et al 2017
+
 * [Topic Compositional Neural Language Model](https://arxiv.org/abs/1712.09783) W Wang et al 2017
 
 * [A deep reinforcement learning chatbot](https://arxiv.org/abs/1709.02349) Serban et al 2017
