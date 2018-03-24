@@ -101,6 +101,8 @@ Alessandro Sordoni et al., *arXiv* 2015]
 
 * [Topic Compositional Neural Language Model](https://arxiv.org/abs/1712.09783) W Wang et al 2017
 
+* [Personalizing Dialogue Agents: I have a dog, do you have pets too?](https://arxiv.org/abs/1801.07243) Zhang, Saizheng, et al., 2018
+
 ### Diversity
 * [A Diversity-Promoting Objective Function for Neural Conversation Models](http://www.aclweb.org/anthology/N16-1014) Jiwei Li et al. 2016
 
