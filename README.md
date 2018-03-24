@@ -106,10 +106,11 @@ Alessandro Sordoni et al., *arXiv* 2015]
 
 * [Data Distillation for Controlling Specificity in Dialogue Generation](https://arxiv.org/abs/1702.06703) Jiwei Li et al., 2017
 
+* [Generating High-Quality and Informative Conversation Responses with Sequence-to-Sequence Models](https://arxiv.org/abs/1701.03185) Louis Shao et al., 2017
+
 * [Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders](https://arxiv.org/abs/1703.10960) Tiancheng Zhao et al., 2017
 
 * [Latent variable dialogue models and their diversity](https://arxiv.org/abs/1702.05962) Cao, Kris et al 2017
-
 
 ### Reinforcement Learning and Adversarial 
 * [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/abs/1606.01541) Jiwei Li et al., *arXiv*, 2016
