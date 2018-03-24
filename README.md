@@ -78,6 +78,7 @@ Mostly the models are evaluated at CNN/Daily Mail and Children's Book Test (CBT)
 
 
 ## Chat Bots
+### General
 * [A Neural Conversational Model](http://arxiv.org/abs/1506.05869) Oriol Vinyals et al., *arXiv* 2015]
 
 * [A Neural Network Approach to Context-Sensitive Generation of Conversational Responses∗](https://arxiv.org/pdf/1506.06714v1.pdf) 
@@ -85,35 +86,39 @@ Alessandro Sordoni et al., *arXiv* 2015]
 
 * [Multiresolution Recurrent Neural Networks: An Application to Dialogue Response Generation](https://arxiv.org/pdf/1606.00776v2.pdf) Iulian Vlad Serban et al., *arXiv* 2016s
 
-* [A Persona-Based Neural Conversation Model](https://arxiv.org/abs/1603.06155) Jiwei Li et al, *arXiv*, 2016
-
-* [A Diversity-Promoting Objective Function for Neural Conversation Models](http://www.aclweb.org/anthology/N16-1014) Jiwei Li et al. 2016
-
-* [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/abs/1606.01541) Jiwei Li et al., *arXiv*, 2016
-
-* [Conversational Contextual Cues: The Case of Personalization and History for Response Ranking](http://arxiv.org/pdf/1606.00372v1.pdf) Rami Al-Rfou et al., 2016
-
 * [A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues](https://arxiv.org/abs/1605.06069) Iulian Vlad Serban et al., 2016
 
 * [Online Sequence-to-Sequence Reinforcement Learning for Open-Domain Conversational Agents](https://arxiv.org/abs/1612.03929) Nabiha Asghar et al., 2016
 
-* [Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/abs/1701.06547) Jiwei Li et al., 2017
+* [Improving Variational Encoder-Decoders in Dialogue Generation](https://arxiv.org/abs/1802.02032) X Shen et al 2018.
+
+### Rich Dialog Context
+* [A Persona-Based Neural Conversation Model](https://arxiv.org/abs/1603.06155) Jiwei Li et al, *arXiv*, 2016
+
+* [Conversational Contextual Cues: The Case of Personalization and History for Response Ranking](http://arxiv.org/pdf/1606.00372v1.pdf) Rami Al-Rfou et al., 2016
+
+* [Augmenting End-to-End Dialog Systems with Commonsense Knowledge](https://arxiv.org/abs/1709.05453) Tom Young et al., 2017
+
+* [Topic Compositional Neural Language Model](https://arxiv.org/abs/1712.09783) W Wang et al 2017
+
+### Diversity
+* [A Diversity-Promoting Objective Function for Neural Conversation Models](http://www.aclweb.org/anthology/N16-1014) Jiwei Li et al. 2016
 
 * [Data Distillation for Controlling Specificity in Dialogue Generation](https://arxiv.org/abs/1702.06703) Jiwei Li et al., 2017
 
 * [Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders](https://arxiv.org/abs/1703.10960) Tiancheng Zhao et al., 2017
 
-* [Augmenting End-to-End Dialog Systems with Commonsense Knowledge](https://arxiv.org/abs/1709.05453) Tom Young et al., 2017
-
 * [Latent variable dialogue models and their diversity](https://arxiv.org/abs/1702.05962) Cao, Kris et al 2017
 
-* [Topic Compositional Neural Language Model](https://arxiv.org/abs/1712.09783) W Wang et al 2017
+
+### Reinforcement Learning and Adversarial 
+* [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/abs/1606.01541) Jiwei Li et al., *arXiv*, 2016
+
+* [Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/abs/1701.06547) Jiwei Li et al., 2017
 
 * [A deep reinforcement learning chatbot](https://arxiv.org/abs/1709.02349) Serban et al 2017
 
 * [End-to-end Adversarial Learning for Generative Conversational Agents](https://arxiv.org/abs/1711.10122) Ludwig, O. 2017. 
-
-* [Improving Variational Encoder-Decoders in Dialogue Generation](https://arxiv.org/abs/1802.02032) X Shen et al 2018.
 
 ## Reinforcement Learning
 * [Strategic Dialogue Management via Deep Reinforcement Learning](https://arxiv.org/abs/1511.08099) Heriberto Cuayáhuitl et al., 2015
