@@ -104,6 +104,8 @@ Alessandro Sordoni et al., *arXiv* 2015]
 ### Diversity
 * [A Diversity-Promoting Objective Function for Neural Conversation Models](http://www.aclweb.org/anthology/N16-1014) Jiwei Li et al. 2016
 
+* [A Simple, Fast Diverse Decoding Algorithm for Neural Generation](https://arxiv.org/abs/1611.08562) Jiwei Li et al., 2016
+
 * [Data Distillation for Controlling Specificity in Dialogue Generation](https://arxiv.org/abs/1702.06703) Jiwei Li et al., 2017
 
 * [Generating High-Quality and Informative Conversation Responses with Sequence-to-Sequence Models](https://arxiv.org/abs/1701.03185) Louis Shao et al., 2017
