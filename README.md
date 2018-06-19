@@ -52,8 +52,6 @@ Mostly the models are evaluated at CNN/Daily Mail and Children's Book Test (CBT)
 
 * [End-to-End Reinforcement Learning of Dialogue Agents for Information Access](http://arxiv.org/abs/1609.00777) Bhuwan Dhingra et al., 2016
 
-* [A User Simulator for Task-Completion Dialogues](https://arxiv.org/abs/1612.05688) Xinjun Li et al., 2016
-
 * [End-to-End Joint Learning of Natural Language Understanding and Dialogue Manager](https://arxiv.org/abs/1612.00913) Xuesong Yang et al., 2016
 
 * [Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning](https://arxiv.org/abs/1702.03274) Jason D. Williams et al., 2017
@@ -75,6 +73,16 @@ Mostly the models are evaluated at CNN/Daily Mail and Children's Book Test (CBT)
 * [Toward Continual Learning for Conversational Agents](https://arxiv.org/pdf/1712.09943.pdf) S Lee 2017
 
 * [Building a Conversational Agent Overnight with Dialogue Self-Play](https://arxiv.org/abs/1801.04871) Pararth Shah et al 2018
+
+### User Simulator
+
+* [Agenda-Based User Simulation for Bootstrapping a POMDP Dialogue System](http://mi.eng.cam.ac.uk/~sjy/papers/stwy07.pdf) Jost Schatzmann 2007
+
+* [A User Simulator for Task-Completion Dialogues](https://arxiv.org/abs/1612.05688) Xinjun Li et al., 2016
+
+* [A Sequence-to-Sequence Model for User Simulation in Spoken Dialogue Systems](https://arxiv.org/pdf/1607.00070.pdf) Layla El Asri 2016
+
+* [Neural User Simulation for Corpus-based Policy Optimisation for Spoken Dialogue Systems](https://arxiv.org/pdf/1805.06966.pdf) Florian L. Kreyssig 2018
 
 
 ## Chat Bots
