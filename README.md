@@ -134,7 +134,6 @@ Alessandro Sordoni et al., *arXiv* 2015]
 
 * [Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation](https://arxiv.org/abs/1804.08069) Tiancheng Zhao et al., 2018
 
-*[Discrete S
 
 ### Reinforcement Learning and Adversarial 
 * [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/abs/1606.01541) Jiwei Li et al., *arXiv*, 2016
