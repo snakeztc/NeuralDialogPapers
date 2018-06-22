@@ -130,7 +130,7 @@ Alessandro Sordoni et al., *arXiv* 2015]
 * [Latent variable dialogue models and their diversity](https://arxiv.org/abs/1702.05962) Cao, Kris et al 2017
 
 ### Inteprebility
-* [Latent intention dialogue models](https://arxiv.org/abs/1705.10229) et al., 2017
+* [Latent intention dialogue models](https://arxiv.org/abs/1705.10229) Tsung-Hsien Wen et al., 2017
 
 * [Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation](https://arxiv.org/abs/1804.08069) Tiancheng Zhao et al., 2018
 
