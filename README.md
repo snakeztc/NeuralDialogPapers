@@ -66,13 +66,18 @@ Mostly the models are evaluated at CNN/Daily Mail and Children's Book Test (CBT)
 
 * [An End-to-End Trainable Neural Network Model with Belief Tracking for Task-Oriented Dialog](https://arxiv.org/pdf/1708.05956.pdf) Liu Bing et al., 2017
 
-* [Sub-domain Modelling for Dialogue Management with Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1706.06210.pdf) Paweł et al., 2017
-
 * [End-to-End Recurrent Entity Network for Entity-Value Independent Goal-Oriented Dialog Learning](http://workshop.colips.org/dstc6/papers/track1_paper02_wu.pdf) CS Wu et al 2017
 
 * [Toward Continual Learning for Conversational Agents](https://arxiv.org/pdf/1712.09943.pdf) S Lee 2017
 
 * [Building a Conversational Agent Overnight with Dialogue Self-Play](https://arxiv.org/abs/1801.04871) Pararth Shah et al 2018
+
+### Multidomain & Domain Adaptation
+* [Sub-domain Modelling for Dialogue Management with Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1706.06210.pdf) Paweł et al., 2017
+
+* [Cross-domain Dialogue Policy Transfer via Simultaneous Speech-act and Slot Alignment](https://arxiv.org/abs/1804.07691) Kaixiang Mo et al. 2018
+
+* [Zero-Shot Dialog Generation with Cross-Domain Latent Actions](https://arxiv.org/abs/1805.04803) Tiancheng Zhao et al
 
 ### User Simulator
 
@@ -123,6 +128,13 @@ Alessandro Sordoni et al., *arXiv* 2015]
 * [Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders](https://arxiv.org/abs/1703.10960) Tiancheng Zhao et al., 2017
 
 * [Latent variable dialogue models and their diversity](https://arxiv.org/abs/1702.05962) Cao, Kris et al 2017
+
+### Inteprebility
+* [Latent intention dialogue models](https://arxiv.org/abs/1705.10229) et al., 2017
+
+* [Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation](https://arxiv.org/abs/1804.08069) Tiancheng Zhao et al., 2018
+
+*[Discrete S
 
 ### Reinforcement Learning and Adversarial 
 * [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/abs/1606.01541) Jiwei Li et al., *arXiv*, 2016
