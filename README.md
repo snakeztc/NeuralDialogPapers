@@ -2,38 +2,8 @@
 A list of papers about creating dialog systems using deep nets! Please feel free to add an issue for suggesting missing **good** paper. 
 
 # Bookmarks
-  * [Long-term Context](#long-term-context)
   * [Task Bots](#task-bots)
   * [Chat Bots](#chat-bots)
-  * [Reinforcement Learning](#reinforcement-learning)
-
-## Long-term Context
-Mostly the models are evaluated at CNN/Daily Mail and Children's Book Test (CBT) corpora.
-
-* [Teaching Machines to Read and Comprehend](https://arxiv.org/abs/1506.03340), Karl Moritz Hermann et al., *arXiv*, 2015.
-  * Deep LSTM/Attentive Reader/Impatient Reader
-
-* [Text Understanding with the Attention Sum Reader Network](https://arxiv.org/abs/1603.01547), Rudolf Kadlec et al., *arXiv*, 2016.
-
-* [The Goldlocks Principle: Reading Children's Books With Explicit Memory Representations](https://arxiv.org/abs/1511.02301), Felix Hill., *arXiv*, 2016.
-  * Memory Network
-
-* [End-To-End Memory Networks](http://arxiv.org/abs/1503.08895v5), Sainbayar Sukhbaatar et al., *arXiv*, 2015.
-
-* [Dynamic Entity Representation with Max-pooling Improves Machine Reading](http://www.cl.ecei.tohoku.ac.jp/publications/2016/kobayashi-dynamic-entity-naacl2016.pdf), Sosuke Kobayashi et al., *arXiv*, 2016.
-
-* [Gated-Attention Readers for Text Comprehension](https://arxiv.org/abs/1606.01549), Bhuwan Dhingra et al., *arXiv*, 2016.
-
-* [Iterative Alternating Neural Attention for Machine Reading](http://arxiv.org/abs/1606.02245v3), Alessandro Sordoni et al., *arXiv*, 2016.
-
-* [A Neural Network Approach to Context-Senstive Generation of Conversational Responses](https://michaelauli.github.io/papers/chitchat.pdf), Alessandro Sordoni et al, 2015
-
-* [Attention-over-Attention Neural Networks for Reading Comprehension](https://arxiv.org/abs/1607.04423) Yiming Cui et al., *arXiv* 2016
-
-* [Hierarchical Recurrent Attention Network for Response Generation](https://arxiv.org/pdf/1701.07149.pdf) Chen Xing et al., 2017
-
-* [How to Make Context More Useful? An Empirical Study on Context-Aware Neural Conversational Models](http://www.aclweb.org/anthology/P17-2036) Zhiliang Tian et al., 2017
-
 
 ## Task Bots
 * [Joint Online Spoken Language Understanding and Language Modeling with Recurrent Neural Networks](http://arxiv.org/abs/1609.01462v1), Bing Liu, *arXiv*, 2016
@@ -116,6 +86,32 @@ Alessandro Sordoni et al., *arXiv* 2015]
 
 * [Personalizing Dialogue Agents: I have a dog, do you have pets too?](https://arxiv.org/abs/1801.07243) Zhang, Saizheng, et al., 2018
 
+Some of  the models are evaluated at CNN/Daily Mail and Children's Book Test (CBT) corpora.
+
+* [Teaching Machines to Read and Comprehend](https://arxiv.org/abs/1506.03340), Karl Moritz Hermann et al., *arXiv*, 2015.
+  * Deep LSTM/Attentive Reader/Impatient Reader
+
+* [Text Understanding with the Attention Sum Reader Network](https://arxiv.org/abs/1603.01547), Rudolf Kadlec et al., *arXiv*, 2016.
+
+* [The Goldlocks Principle: Reading Children's Books With Explicit Memory Representations](https://arxiv.org/abs/1511.02301), Felix Hill., *arXiv*, 2016.
+  * Memory Network
+
+* [End-To-End Memory Networks](http://arxiv.org/abs/1503.08895v5), Sainbayar Sukhbaatar et al., *arXiv*, 2015.
+
+* [Dynamic Entity Representation with Max-pooling Improves Machine Reading](http://www.cl.ecei.tohoku.ac.jp/publications/2016/kobayashi-dynamic-entity-naacl2016.pdf), Sosuke Kobayashi et al., *arXiv*, 2016.
+
+* [Gated-Attention Readers for Text Comprehension](https://arxiv.org/abs/1606.01549), Bhuwan Dhingra et al., *arXiv*, 2016.
+
+* [Iterative Alternating Neural Attention for Machine Reading](http://arxiv.org/abs/1606.02245v3), Alessandro Sordoni et al., *arXiv*, 2016.
+
+* [A Neural Network Approach to Context-Senstive Generation of Conversational Responses](https://michaelauli.github.io/papers/chitchat.pdf), Alessandro Sordoni et al, 2015
+
+* [Attention-over-Attention Neural Networks for Reading Comprehension](https://arxiv.org/abs/1607.04423) Yiming Cui et al., *arXiv* 2016
+
+* [Hierarchical Recurrent Attention Network for Response Generation](https://arxiv.org/pdf/1701.07149.pdf) Chen Xing et al., 2017
+
+* [How to Make Context More Useful? An Empirical Study on Context-Aware Neural Conversational Models](http://www.aclweb.org/anthology/P17-2036) Zhiliang Tian et al., 2017
+
 ### Diversity
 * [A Diversity-Promoting Objective Function for Neural Conversation Models](http://www.aclweb.org/anthology/N16-1014) Jiwei Li et al. 2016
 
@@ -144,7 +140,6 @@ Alessandro Sordoni et al., *arXiv* 2015]
 
 * [End-to-end Adversarial Learning for Generative Conversational Agents](https://arxiv.org/abs/1711.10122) Ludwig, O. 2017. 
 
-## Reinforcement Learning
 * [Strategic Dialogue Management via Deep Reinforcement Learning](https://arxiv.org/abs/1511.08099) Heriberto Cuayáhuitl et al., 2015
 
 * [Generating Text with Deep Reinforcement Learning](http://arxiv.org/abs/1510.09202), Hongyu Guo, *arXiv*, 2015
