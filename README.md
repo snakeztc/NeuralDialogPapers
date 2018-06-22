@@ -3,9 +3,18 @@ A list of papers about creating dialog systems using deep nets! Please feel free
 
 # Bookmarks
   * [Task Bots](#task-bots)
+    * General
+    * Multidomain & Domain Adaptation
+    * User Simulator
+    * Reinforcement Learning and Adversarial 
   * [Chat Bots](#chat-bots)
+    * General
+    * Rich Dialog Context
+    * Diversity
+    * Inteprebility
 
 ## Task Bots
+### General 
 * [Joint Online Spoken Language Understanding and Language Modeling with Recurrent Neural Networks](http://arxiv.org/abs/1609.01462v1), Bing Liu, *arXiv*, 2016
 
 * [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling](http://arxiv.org/abs/1609.01454v1), Bing Liu, *arXiv*, 2016
@@ -59,6 +68,33 @@ A list of papers about creating dialog systems using deep nets! Please feel free
 
 * [Neural User Simulation for Corpus-based Policy Optimisation for Spoken Dialogue Systems](https://arxiv.org/pdf/1805.06966.pdf) Florian L. Kreyssig 2018
 
+
+### Reinforcement Learning and Adversarial 
+* [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/abs/1606.01541) Jiwei Li et al., *arXiv*, 2016
+
+* [Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/abs/1701.06547) Jiwei Li et al., 2017
+
+* [A deep reinforcement learning chatbot](https://arxiv.org/abs/1709.02349) Serban et al 2017
+
+* [End-to-end Adversarial Learning for Generative Conversational Agents](https://arxiv.org/abs/1711.10122) Ludwig, O. 2017. 
+
+* [Strategic Dialogue Management via Deep Reinforcement Learning](https://arxiv.org/abs/1511.08099) Heriberto Cuayáhuitl et al., 2015
+
+* [Generating Text with Deep Reinforcement Learning](http://arxiv.org/abs/1510.09202), Hongyu Guo, *arXiv*, 2015
+
+* [Deep Reinforcement Learning with a Natural Language Action Space](http://arxiv.org/abs/1511.04636v5), Ji He et al., *arXiv*, 2016.
+
+* [Language Understanding for Text-based Games using Deep Reinforcement Learning](https://arxiv.org/abs/1506.08941), Karthik Narasimhan *arXiv*, 2016
+
+* [Deep reinforcement learning for dialogue generation](https://arxiv.org/abs/1606.01541) Jiwei Li et al., 2016
+
+* [End-to-end task-completion neural dialogue systems](https://arxiv.org/abs/1703.01008) Xiujun Li et al., 2017
+
+* [Sub-domain Modelling for Dialogue Management with Hierarchical Reinforcement Learning](https://arxiv.org/abs/1706.06210) Paweł Budzianowski et al., 2017
+
+* [Sample-efficient Actor-Critic Reinforcement Learning with Supervised Data for Dialogue Management](https://arxiv.org/abs/1707.00130) Pei-Hao Su et al., 2017
+
+* [Composite Task-Completion Dialogue Policy Learning via Hierarchical Deep Reinforcement Learning](https://arxiv.org/abs/1704.03084) Baolin Peng et al., 2017
 
 ## Chat Bots
 ### General
@@ -131,32 +167,6 @@ Some of  the models are evaluated at CNN/Daily Mail and Children's Book Test (CB
 * [Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation](https://arxiv.org/abs/1804.08069) Tiancheng Zhao et al., 2018
 
 
-### Reinforcement Learning and Adversarial 
-* [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/abs/1606.01541) Jiwei Li et al., *arXiv*, 2016
-
-* [Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/abs/1701.06547) Jiwei Li et al., 2017
-
-* [A deep reinforcement learning chatbot](https://arxiv.org/abs/1709.02349) Serban et al 2017
-
-* [End-to-end Adversarial Learning for Generative Conversational Agents](https://arxiv.org/abs/1711.10122) Ludwig, O. 2017. 
-
-* [Strategic Dialogue Management via Deep Reinforcement Learning](https://arxiv.org/abs/1511.08099) Heriberto Cuayáhuitl et al., 2015
-
-* [Generating Text with Deep Reinforcement Learning](http://arxiv.org/abs/1510.09202), Hongyu Guo, *arXiv*, 2015
-
-* [Deep Reinforcement Learning with a Natural Language Action Space](http://arxiv.org/abs/1511.04636v5), Ji He et al., *arXiv*, 2016.
-
-* [Language Understanding for Text-based Games using Deep Reinforcement Learning](https://arxiv.org/abs/1506.08941), Karthik Narasimhan *arXiv*, 2016
-
-* [Deep reinforcement learning for dialogue generation](https://arxiv.org/abs/1606.01541) Jiwei Li et al., 2016
-
-* [End-to-end task-completion neural dialogue systems](https://arxiv.org/abs/1703.01008) Xiujun Li et al., 2017
-
-* [Sub-domain Modelling for Dialogue Management with Hierarchical Reinforcement Learning](https://arxiv.org/abs/1706.06210) Paweł Budzianowski et al., 2017
-
-* [Sample-efficient Actor-Critic Reinforcement Learning with Supervised Data for Dialogue Management](https://arxiv.org/abs/1707.00130) Pei-Hao Su et al., 2017
-
-* [Composite Task-Completion Dialogue Policy Learning via Hierarchical Deep Reinforcement Learning](https://arxiv.org/abs/1704.03084) Baolin Peng et al., 2017
 
 
 
