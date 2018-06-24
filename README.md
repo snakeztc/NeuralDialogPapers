@@ -1,5 +1,5 @@
 # Neural Network Dialog System Papers
-A list of papers about creating dialog systems using deep nets! Please feel free to add an issue for suggesting missing **good** paper. 
+A list of papers about creating dialog systems using deep nets! **Please feel free to add an issue or pull request for missing papers**.
 
 # Bookmarks
   * [Task Bots](#task-bots)
