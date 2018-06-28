@@ -165,9 +165,9 @@ Some of  the models are evaluated at CNN/Daily Mail and Children's Book Test (CB
 
 * [Latent variable dialogue models and their diversity](https://arxiv.org/abs/1702.05962) Cao, Kris et al 2017
 
-* [DialogWAE: Multimodal Response Generation with Conditional Wasserstein Auto-Encoder](https://arxiv.org/abs/1805.12352)
+* [DialogWAE: Multimodal Response Generation with Conditional Wasserstein Auto-Encoder](https://arxiv.org/abs/1805.12352) Xiaodong Gu et al 2018
 
-* [Towards a Neural Conversation Model with Diversity Net Using Determinantal Point Processes](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17115)
+* [Towards a Neural Conversation Model with Diversity Net Using Determinantal Point Processes](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17115) Yiping Song et al 2018
 
 ### Inteprebility
 * [Latent intention dialogue models](https://arxiv.org/abs/1705.10229) Tsung-Hsien Wen et al., 2017
