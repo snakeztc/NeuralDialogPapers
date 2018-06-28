@@ -109,6 +109,10 @@ Alessandro Sordoni et al., *arXiv* 2015]
 
 * [Online Sequence-to-Sequence Reinforcement Learning for Open-Domain Conversational Agents](https://arxiv.org/abs/1612.03929) Nabiha Asghar et al., 2016
 
+* [Reinforcing Coherence for Sequence to Sequence Model in Dialogue Generation](http://www.bigdatalab.ac.cn/~junxu/publications/IJCAI2018-DialogueGen.pdf)
+
+* [Multi-turn Dialogue Response Generation in an Adversarial Learning Framework](https://arxiv.org/abs/1805.11752) - Combining GAN with MLE in the objective.
+
 * [Improving Variational Encoder-Decoders in Dialogue Generation](https://arxiv.org/abs/1802.02032) X Shen et al 2018.
 
 ### Rich Dialog Context
@@ -160,6 +164,10 @@ Some of  the models are evaluated at CNN/Daily Mail and Children's Book Test (CB
 * [Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders](https://arxiv.org/abs/1703.10960) Tiancheng Zhao et al., 2017
 
 * [Latent variable dialogue models and their diversity](https://arxiv.org/abs/1702.05962) Cao, Kris et al 2017
+
+* [DialogWAE: Multimodal Response Generation with Conditional Wasserstein Auto-Encoder](https://arxiv.org/abs/1805.12352)
+
+* [Towards a Neural Conversation Model with Diversity Net Using Determinantal Point Processes](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17115)
 
 ### Inteprebility
 * [Latent intention dialogue models](https://arxiv.org/abs/1705.10229) Tsung-Hsien Wen et al., 2017
