@@ -56,7 +56,7 @@ A list of papers about creating dialog systems using deep nets! **Please feel fr
 
 * [Cross-domain Dialogue Policy Transfer via Simultaneous Speech-act and Slot Alignment](https://arxiv.org/abs/1804.07691) Kaixiang Mo et al. 2018
 
-* [Zero-Shot Dialog Generation with Cross-Domain Latent Actions](https://arxiv.org/abs/1805.04803) Tiancheng Zhao et al
+* [Zero-Shot Dialog Generation with Cross-Domain Latent Actions](https://arxiv.org/abs/1805.04803) Tiancheng Zhao et al 2018
 
 ### User Simulator
 
