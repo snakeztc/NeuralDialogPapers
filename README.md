@@ -185,6 +185,8 @@ Some of  the models are evaluated at CNN/Daily Mail and Children's Book Test (CB
 
 * [Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation](https://arxiv.org/abs/1804.08069) Tiancheng Zhao et al., 2018
 
+* [Learning to Control the Specificity in Neural Response Generation](http://aclweb.org/anthology/P18-1102) Ruqing Zhang et al 2018.
+
 
 
 
