@@ -46,10 +46,15 @@ A list of papers about creating dialog systems using deep nets! **Please feel fr
 * [An End-to-End Trainable Neural Network Model with Belief Tracking for Task-Oriented Dialog](https://arxiv.org/pdf/1708.05956.pdf) Liu Bing et al., 2017
 
 * [End-to-End Recurrent Entity Network for Entity-Value Independent Goal-Oriented Dialog Learning](http://workshop.colips.org/dstc6/papers/track1_paper02_wu.pdf) CS Wu et al 2017
-
+) 
 * [Toward Continual Learning for Conversational Agents](https://arxiv.org/pdf/1712.09943.pdf) S Lee 2017
 
 * [Building a Conversational Agent Overnight with Dialogue Self-Play](https://arxiv.org/abs/1801.04871) Pararth Shah et al 2018
+
+* [Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architecture](https://www.comp.nus.edu.sg/~xiangnan/papers/acl18-sequicity.pdf) Wenqiang Lei et al 2018
+
+* [Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems](https://arxiv.org/abs/1804.08217) Andrea Madotto et al 2018
+
 
 ### Multidomain & Domain Adaptation
 * [Sub-domain Modelling for Dialogue Management with Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1706.06210.pdf) Paweł et al., 2017
@@ -96,6 +101,8 @@ A list of papers about creating dialog systems using deep nets! **Please feel fr
 
 * [Composite Task-Completion Dialogue Policy Learning via Hierarchical Deep Reinforcement Learning](https://arxiv.org/abs/1704.03084) Baolin Peng et al., 2017
 
+* [Deep Dyna-Q: Integrating Planning for Task-Completion Dialogue Policy Learning](https://arxiv.org/abs/1801.06176) Baolin Peng et al 2018
+
 ## Chat Bots
 ### General
 * [A Neural Conversational Model](http://arxiv.org/abs/1506.05869) Oriol Vinyals et al., *arXiv* 2015]
@@ -114,6 +121,10 @@ Alessandro Sordoni et al., *arXiv* 2015]
 * [Multi-turn Dialogue Response Generation in an Adversarial Learning Framework](https://arxiv.org/abs/1805.11752) - Combining GAN with MLE in the objective.
 
 * [Improving Variational Encoder-Decoders in Dialogue Generation](https://arxiv.org/abs/1802.02032) X Shen et al 2018.
+
+* [MojiTalk: Generating Emotional Responses at Scale](https://arxiv.org/abs/1711.04090) Xianda Zhou et al 2018
+
+* [Exemplar Encoder-Decoder for Neural Conversation Generation](http://aclweb.org/anthology/P18-1123) Gaurav Pandey et al 2018
 
 ### Rich Dialog Context
 * [A Persona-Based Neural Conversation Model](https://arxiv.org/abs/1603.06155) Jiwei Li et al, *arXiv*, 2016
