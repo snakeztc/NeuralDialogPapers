@@ -27,8 +27,6 @@ A list of papers about creating dialog systems using deep nets! **Please feel fr
 
 * [End-to-end LSTM-based dialog control optimized with supervised and reinforcement learning](http://arxiv.org/pdf/1606.01269v1.pdf), Jason D. Williams et al., 2016
 
-* [Towards End-to-End Learning for Dialog State Tracking and Management using Deep Reinforcement Learning](https://arxiv.org/pdf/1606.02560v1.pdf) Tiancheng Zhao et al., 2016
-
 * [End-to-End Reinforcement Learning of Dialogue Agents for Information Access](http://arxiv.org/abs/1609.00777) Bhuwan Dhingra et al., 2016
 
 * [End-to-End Joint Learning of Natural Language Understanding and Dialogue Manager](https://arxiv.org/abs/1612.00913) Xuesong Yang et al., 2016
@@ -75,6 +73,8 @@ A list of papers about creating dialog systems using deep nets! **Please feel fr
 
 
 ### Reinforcement Learning and Adversarial 
+* [Towards End-to-End Learning for Dialog State Tracking and Management using Deep Reinforcement Learning](https://arxiv.org/pdf/1606.02560v1.pdf) Tiancheng Zhao et al., 2016
+
 * [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/abs/1606.01541) Jiwei Li et al., *arXiv*, 2016
 
 * [Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/abs/1701.06547) Jiwei Li et al., 2017
