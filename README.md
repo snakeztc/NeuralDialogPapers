@@ -103,6 +103,8 @@ A list of papers about creating dialog systems using deep nets! **Please feel fr
 
 * [Deep Dyna-Q: Integrating Planning for Task-Completion Dialogue Policy Learning](https://arxiv.org/abs/1801.06176) Baolin Peng et al 2018
 
+* [Multimodal Hierarchical Reinforcement Learning Policy for Task-Oriented Visual Dialog](https://arxiv.org/abs/1805.03257) Jianping Zhang et al 2018
+
 ## Chat Bots
 ### General
 * [A Neural Conversational Model](http://arxiv.org/abs/1506.05869) Oriol Vinyals et al., *arXiv* 2015]
