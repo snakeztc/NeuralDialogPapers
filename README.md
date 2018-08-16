@@ -163,6 +163,9 @@ Some of  the models are evaluated at CNN/Daily Mail and Children's Book Test (CB
 
 * [How to Make Context More Useful? An Empirical Study on Context-Aware Neural Conversational Models](http://www.aclweb.org/anthology/P17-2036) Zhiliang Tian et al., 2017
 
+* [Chat More: Deepening and Widening the Chatting Topic via A
+Deep Model](http://coai.cs.tsinghua.edu.cn/hml/media/files/2018SIGIR_Wangwenjie.pdf) Wenjie Wang et al., 2018
+
 ### Diversity
 * [A Diversity-Promoting Objective Function for Neural Conversation Models](http://www.aclweb.org/anthology/N16-1014) Jiwei Li et al. 2016
 
