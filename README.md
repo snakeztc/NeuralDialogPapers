@@ -105,6 +105,8 @@ A list of papers about creating dialog systems using deep nets! **Please feel fr
 
 * [Multimodal Hierarchical Reinforcement Learning Policy for Task-Oriented Visual Dialog](https://arxiv.org/abs/1805.03257) Jianping Zhang et al 2018
 
+* [Adversarial Learning of Task-Oriented Neural Dialog Models](https://arxiv.org/abs/1805.11762) Liu et al 2018.
+
 ## Chat Bots
 ### General
 * [A Neural Conversational Model](http://arxiv.org/abs/1506.05869) Oriol Vinyals et al., *arXiv* 2015]
