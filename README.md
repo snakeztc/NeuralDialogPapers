@@ -130,6 +130,8 @@ Alessandro Sordoni et al., *arXiv* 2015]
 
 * [Exemplar Encoder-Decoder for Neural Conversation Generation](http://aclweb.org/anthology/P18-1123) Gaurav Pandey et al 2018
 
+* Coupled Context Modeling for Deep Chit-Chat: Towards Conversations between Human and Computer(http://www.ruiyan.me/pubs/KDD2018Yan.pdf) Rui Yan et al KDD 2018.
+
 ### Rich Dialog Context
 * [A Persona-Based Neural Conversation Model](https://arxiv.org/abs/1603.06155) Jiwei Li et al, *arXiv*, 2016
 
