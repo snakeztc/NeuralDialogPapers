@@ -9,6 +9,7 @@ A list of papers about creating dialog systems using deep nets! **Please feel fr
     * Reinforcement Learning and Adversarial 
   * [Chat Bots](#chat-bots)
     * General
+    * Retrieval Methods
     * Rich Dialog Context
     * Diversity
     * Inteprebility
@@ -135,7 +136,7 @@ Alessandro Sordoni et al., *arXiv* 2015]
 ### Retrieval Methods
 * [Multi-view Response Selection for Human-Computer Conversation](http://www.aclweb.org/anthology/D16-1036) Xiangyang Zhou et al 2016
 
-* [Sequential Matching Network: A New Architecture for Multi-turn Response Selection in Retrieval-based Chatbots](https://arxiv.org/abs/1612.01627)Yu Wu 2017
+* [Sequential Matching Network: A New Architecture for Multi-turn Response Selection in Retrieval-based Chatbots](https://arxiv.org/abs/1612.01627) Yu Wu 2017
 
 * [Modeling multi-turn conversation with deep utterance aggregation](https://arxiv.org/abs/1806.09102) Zhuosheng Zhang et al 2018
 
