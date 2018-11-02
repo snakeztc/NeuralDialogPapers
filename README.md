@@ -133,7 +133,7 @@ Alessandro Sordoni et al., *arXiv* 2015]
 
 * Coupled Context Modeling for Deep Chit-Chat: Towards Conversations between Human and Computer(http://www.ruiyan.me/pubs/KDD2018Yan.pdf) Rui Yan et al KDD 2018.
 
-* [ariational Autoregressive Decoder for Neural Response Generation](http://aclweb.org/anthology/D18-1354) Jiachen Du et al 2018.
+* [Variational Autoregressive Decoder for Neural Response Generation](http://aclweb.org/anthology/D18-1354) Jiachen Du et al 2018.
 
 ### Retrieval Methods
 * [Multi-view Response Selection for Human-Computer Conversation](http://www.aclweb.org/anthology/D16-1036) Xiangyang Zhou et al 2016
