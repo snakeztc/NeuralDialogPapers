@@ -50,6 +50,8 @@ A list of papers about creating dialog systems using deep nets! **Please feel fr
 
 * [Building a Conversational Agent Overnight with Dialogue Self-Play](https://arxiv.org/abs/1801.04871) Pararth Shah et al 2018
 
+* [Towards Conversatonal Search and Recommendation: System Ask, User Respond](http://yongfeng.me/attach/conv-search-rec-zhang2018.pdf) Yongfeng Zhang et al 2018
+
 * [Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architecture](https://www.comp.nus.edu.sg/~xiangnan/papers/acl18-sequicity.pdf) Wenqiang Lei et al 2018
 
 * [Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems](https://arxiv.org/abs/1804.08217) Andrea Madotto et al 2018
